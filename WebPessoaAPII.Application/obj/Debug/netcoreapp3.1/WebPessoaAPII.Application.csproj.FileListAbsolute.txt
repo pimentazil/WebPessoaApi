@@ -1,0 +1,10 @@
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\bin\Debug\netcoreapp3.1\WebPessoaAPII.Application.deps.json
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\bin\Debug\netcoreapp3.1\WebPessoaAPII.Application.dll
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\bin\Debug\netcoreapp3.1\WebPessoaAPII.Application.pdb
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\obj\Debug\netcoreapp3.1\WebPessoaAPII.Application.csproj.AssemblyReference.cache
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\obj\Debug\netcoreapp3.1\WebPessoaAPII.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\obj\Debug\netcoreapp3.1\WebPessoaAPII.Application.AssemblyInfoInputs.cache
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\obj\Debug\netcoreapp3.1\WebPessoaAPII.Application.AssemblyInfo.cs
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\obj\Debug\netcoreapp3.1\WebPessoaAPII.Application.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\obj\Debug\netcoreapp3.1\WebPessoaAPII.Application.dll
+C:\Users\Matheus\Documents\C#\WebAPI\WebPessoaAPII.Application\obj\Debug\netcoreapp3.1\WebPessoaAPII.Application.pdb
